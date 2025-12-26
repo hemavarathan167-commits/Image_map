@@ -23,11 +23,12 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODEmap.html
+~~~
 
 {% load static %}
 <title>RAMANATHAPURAM MAP</title>
 <body>
-    <center><h1>MOHAMED ASARUDEEN A (25005844)</h1>
+    <center><h1>HEMAVARATHAN (25005365)</h1>
 <img src="{% static 'rmd.png'%}" usemap="#image-map"></center>
 
 <map name="image-map">
@@ -166,7 +167,7 @@ urlpatterns = [
     path('temple.html/',views.temple),
     path('water.html/',views.water),
 ]
-
+~~~
 # OUTPUT<img width="542" height="257" alt="image" src="https://github.com/user-attachments/assets/8e4c02a2-22d0-4002-ad7f-af06cdbc0dea" />
 <img width="541" height="273" alt="image" src="https://github.com/user-attachments/assets/a9c500fa-bb9d-4f49-b2da-84ae3fa16c98" />
 <img width="538" height="268" alt="image" src="https://github.com/user-attachments/assets/489cbfae-9d32-441e-bf3c-89bc032f72ae" />
