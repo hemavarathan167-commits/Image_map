@@ -169,7 +169,6 @@ urlpatterns = [
 ]
 ~~~
 # OUTPUT<img width="542" height="257" alt="image" src="https://github.com/user-attachments/assets/8e4c02a2-22d0-4002-ad7f-af06cdbc0dea" />
-<img width="541" height="273" alt="image" src="https://github.com/user-attachments/assets/a9c500fa-bb9d-4f49-b2da-84ae3fa16c98" />
 <img width="538" height="268" alt="image" src="https://github.com/user-attachments/assets/489cbfae-9d32-441e-bf3c-89bc032f72ae" />
 <img width="544" height="275" alt="image" src="https://github.com/user-attachments/assets/f3171e82-fbd7-4391-a3b3-22f8e09e3c56" />
 <img width="535" height="275" alt="image" src="https://github.com/user-attachments/assets/87112229-f510-48e0-8ddf-cb063be5dadb" />
